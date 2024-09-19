@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root{
-    --cor-principal: #ae8fba;
+    --cor-principal: #fff2d4;
     --cor-secundaria: #f79eb1;
     --cor-texto: #d4486f;
-    --cor-de-fundo: #f2e7d2;
+    --cor-de-fundo: #ae8fba;
     --font: "Libre Baskerville", serif;;
 }
 body{
