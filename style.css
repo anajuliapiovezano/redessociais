@@ -5,7 +5,7 @@
     --cor-secundaria: #f79eb1;
     --cor-texto: #d4486f;
     --cor-de-fundo: #ae8fba;
-    --font: "Libre Baskerville", serif;;
+    --font: "Libre Baskerville", serif;
 }
 body{
     background-color: var(--cor-principal);
@@ -23,11 +23,13 @@ body{
     color: var(--cor-texto)
     font-weight: 700;
 }
+
 nav{
     display: flex;
     justify-content: center;
     font-weight: 400;
 }
+
 nav a {
     text-decoration: none;
     color: var(--cor-texto);
